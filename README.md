@@ -186,6 +186,12 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<div align="center">
+
+[![Metrics](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/LyCecilion/LyCecilion/actions/workflows/metrics.yml) [![Waka Readme](https://github.com/LyCecilion/LyCecilion/actions/workflows/waka-readme.yml/badge.svg?branch=main)](https://github.com/LyCecilion/LyCecilion/actions/workflows/waka-readme.yml)
+
+</div>
+
 ![哔哩哔哩头图分隔线 05](assets/division_bilibili_05.png)
 
 ## 个人 Roadmap

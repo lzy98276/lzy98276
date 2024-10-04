@@ -6,7 +6,6 @@
     <img src="assets/heart_round_cornered.png" width="200px" style="border-radius: 50px;">
 </div>
 
-
 > 「无论风雨晴晦，只祈你岁岁安康。」<br>
 > 「无论春夏秋冬，只愿你安然无恙。」<br>
 > —— 黎泽懿 个性签名

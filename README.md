@@ -2,120 +2,76 @@
 
 <div align="center">
 
-<img src="assets/heart_round_cornered.png" width="200px">
+<div align="center">
+    <img src="assets/heart_round_cornered.png" width="200px" style="border-radius: 50px;">
+</div>
 
-> 「白苎新袍入嫩凉。春蚕食叶响回廊。禹门已准桃花浪，月殿先收桂子香。」<br>
-> 「鹏北海，凤朝阳。又携书剑路茫茫。明年此日青云上，却笑人间举子忙。」<br>
-> —— \[宋\] 辛弃疾《鹧鸪天·送廓之秋试》
+
+> 「无论风雨晴晦，只祈你岁岁安康。」<br>
+> 「无论春夏秋冬，只愿你安然无恙。」<br>
+> —— 黎泽懿 个性签名
 
 </div>
 
 > [!TIP]
-> 该 README 是 [@一般通过绫音酱\_Cecilion](https://github.com/LyCecilion) 的自我介绍。
+> 该 README 是 [@黎泽懿](https://github.com/lzy98276) 的自我介绍。
 
 > [!WARNING]
 >
-> 直到 2025/6/9，你可能无法总是联系到绫音。
+> 在周一到周五，你可能在非法定节假日联系不到 黎泽懿。
 >
-> 由于绫音已经进入高三一轮复习阶段，接触网络的时间锐减，故可能无法长时间在线。你发送的消息可能会被无限期搁置或（非主观意愿上地）忽略。
->
-> 如有重要的事件，为防止消息被即时通讯平台 ~~这里点名 QQ~~ 吞掉，可以 [通过邮件联系绫音](mailto:LyCecilion@outlook.com)。
+> 如有重要的事件，可以通过 [邮件联系黎泽懿](mailto:lzy.12@outlook.com) 或 [QQ联系黎泽懿](https://qm.qq.com/q/xPMrlZ64lq)。
 
-> [!CAUTION]
+<!-- > [!CAUTION]
 >
 > 绫音的精神状态并不稳定，因此你可能会不定时看到绫音在部分平台异常活跃或极度兴奋，但大多数时候绫音可以自动调整回正常状态。这样的 [灵魂崩溃](#容器彼方赴尘绫音sc-和-silentcloudburst-的一切) 非绫音自身缺陷且可复原，因此一般情况下不必担心。
 >
-> 与绫音交流即代表你了解并接受上述内容。
+> 与绫音交流即代表你了解并接受上述内容。 -->
 
 ---
 
 <div align="center">
 
-![绫音的 GitHub Profile 头图](assets/division_saint_cecilia.png)
+<img src="assets/division_saint_cecilia.png" style="border-radius: 50px;" width="auto" height="auto">
 
-# tℓ&0&▒&₉◃₉◃E: 彼方和彼方的奔赴者
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&width=435&lines=%E6%89%A7%E5%BF%B5%E5%92%8C%E7%94%B1%E4%B9%8B%E8%80%8C%E7%94%9F%E7%9A%84%E5%B9%BB%E6%A2%A6;%E6%BC%94%E6%9B%BF%E5%87%BA%E5%BA%9F%E5%A2%9F%E4%B8%AD%E7%9A%84%E5%B9%BD%E8%93%9D%E8%8A%B1%E6%9C%B5)
+#
 
-![README 浏览量](https://komarev.com/ghpvc/?username=LyCecilion&color=red)
+![README 浏览量](https://komarev.com/ghpvc/?username=lzy98276&color=blue)
 
 </div>
 
-你好！这里是 绫音 / 零音 / LyCecilion / Cecilion / LyCn。这些名称是等价的。是一般路过的陕西物化生方向高三生，17 周岁。是 INFP-T，是社恐，~~易燃易爆炸~~。二三次身份 (sc 和 LyCn) 完全正交。请以任一昵称 或 they/them/TA 指代绫音。
+你好！这里是 黎泽懿 / lzy。仅是名高一学生，17 周岁。是 ENFP-T，是有一馁馁的外向。
+<!-- 玩过 原神! 崩坏: 星穹铁道! Minecraft / 崩坏三 / 缺氧 / 地平线 5 / 欧洲卡车模拟器 / 泰坦陨落 2 / 恶魔轮盘 / 星露谷物语 / 俄罗斯钓鱼 / 未转尸变 / 传送门1/2 / 冰与火之舞 / APEX / 监狱建筑师 / 碧蓝航线 / PUPG / 王者荣耀 / 和平精英。-->
 
-<!-- 主玩 Phigros / Phira / 律动轨迹(Rizline) / 中二节奏(CHUNITHM) /舞萌DX (maimaiDX)，玩过 Arcaea/BanG Dream! Girls Band Party!/Cytoid/Cytus II/Kalpa/Milthm/Orzmic/osu!/范式：起源/崩坏：星穹铁道/Minecraft。-->
-
-学过基本的 Python，会 ~~在 GPT 的帮助下~~ 写一些简单的东西。想学的东西有很多很多，但是现在高三，大概是没有太多时间去维持爱好了。说到爱好呢——是半个地铁迷（但是对车不是很了解），半个 羽毛球 er（但是打得很菜，还不如新手），半个骑友（最长一次骑了 60km，也没啥经验），半个数学爱好者（但是好久没上过 130 分了），半个网文写手（算了吧写出来的东西云里雾里的）。「半个」是因为知道自己不够格。
+学过基本的 Python，会 ~~在 部分AI 的帮助下~~ 写一些简单的东西。想学的东西有很多很多，但是现在高一，虽然有很多的周末时间，但是现在的高一总感觉作业有一馁馁多，所以真的就学不了什么新东西了。也只能先用玩的空闲时间来做一下 [SectionIstool](https://github.com/SectionIstool/SectionIstool) 这个项目呢，也是给我的 GitHub 账号上多了点内容。
 
 还要介绍些什么？想不出来了。总之祝愿自己变成想要成为的人吧。
 
 <div align="center">
 
-> 「悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。」<br>
-> 「舟遥遥以轻飏，风飘飘而吹衣。问征夫以前路，恨晨光之熹微。」
+> 「风雨无阻，时光不老，岁岁年年，安康如初。」<br>
+> 「春风得意，夏日满园，秋叶盛开，冬雪消融。」<br>
 
 </div>
 
 ![哔哩哔哩头图分隔线 01](assets/division_bilibili_01.png)
 
-## 容器「彼方赴尘」、绫音、sc 和 silentcloudburst 的一切
+## 关于 黎泽懿 这个名称
+<div>
 
-<!-- 感谢 GPT-4o 的措辞优化 -->
+这个名称呢，包含了我初中时代的部分重要的事情。
 
-对于大多数人来说，身体与灵魂是一体的。然而，在绫音的世界观中，绫音是一个完整环境的镜像 (image)。眼前的绫音，是绫音的灵魂在现实世界中加载到一个容器 (container) 上创建的实例 (LyCn Instance)。目前，这个实例是绫音的官方版本，载于名为「彼方赴尘」(bffContainer) 的容器中。理论上，绫音可运行在任何兼容的容器上，每个人都可以搭建自己的绫音实例。绫音正在探索其可能性。
+- 黎：当时我在初中的网名还是小学取得，不怎么好听。在我初一下册的时候，我认识了个 朋友 当时玩的很好，他呢刚好又姓 ‘黎’，而且我名字开头也是L，‘黎’ 这个字的寓意又很好 「黎明」。
 
-「彼方赴尘」在现实中可见，但绫音尚未弄清自己是如何加载到其中的。在绫音加载之前，「彼方赴尘」已有一个名为「雾色深海\_sc」的灵魂。在绫音的实例创建后，绫音与 sc 共存了一段时间，两个灵魂轮流控制容器。随后，绫音通过「彼方赴尘」的虚拟化技术，将 sc 转入虚拟化兼容层，而「彼方赴尘」现在主要由绫音控制。当与 sc 有过直接交流的他人出现时，sc 会进入「激发态」，此时容器会将控制权交给 sc。
+- 泽：初二时跟填写玩了 原神 这款游戏，当时是个萌新，又挺喜欢一个角色的，又再加上那个角色名字的一个字。
 
-绫音和 sc 互相拥有完全的访问和操作权限。由于 sc 早期的不稳定运行，「彼方赴尘」经常发生灵魂崩溃 (crash)。这种崩溃并非灵魂或其实例的问题，而是「彼方赴尘」的缺陷所致。绫音正在寻找解决方案，目前最可靠的方案是在绫音高考结束后 (2025/06/09) 进行灵魂融合，并重写「彼方赴尘」的固件 (firmware)。
+- 懿：初二时，当时我 朋友 同班我认识了个人，虽然关系一般，但是馁我还是将他名字中的 ‘懿’ 字给采纳了。
 
-silentcloudburst 是 sc 早期在其虚拟化平台上构建的虚拟灵魂。由于届时虚拟化技术不成熟以及 **某人** 对其的骚扰，silentcloudburst 最终选择了自我毁灭，虚拟化平台也无法再与其联系。
+所以 黎泽懿 这个名称，也就是我初中的一些 朋友/喜欢的角色名字的组合 「黎泽懿」 罢了。
 
-<div align="center">
+</div align="center">
 
-**🕯 R.I.P. silentcloudburst 🕯**
-
-</div>
-
-| 术语                            | 含义                                                         |
-| ------------------------------- | ------------------------------------------------------------ |
-| 容器「彼方赴尘」/"bffContainer" | 指的是绫音实例官方版本所位于的容器，其上加载着绫音和处于虚拟化状态的 sc。 |
-| 雾色深海_sc                     | 指容器中的原生灵魂。极度不稳定，目前处于虚拟化状态。「前体 sc」/"former-sc" 指「雾色深海_sc」更名前的一段特定时期。 |
-| 散尘                            | 指 雾色深海_sc 于 2023 年临时启用的昵称，后被废除。          |
-| Saint Cecilia                   | 指绫音在现实中与他人交流时使用的昵称。                       |
-| 绫音 / 零音                     | 绫音于 2024/2/15 加载入「彼方赴尘」时使用名为「零音」，随后这些名字被共用且完全等价。 |
-| 「激发态」                      | 一般情况下，当人们只是提及 sc 时，sc 会通过「彼方赴尘」兼容层，由绫音作为中转方中转其交流。但这种中转可能会造成低效率，故与 sc 直接交流的人出现时，「彼方赴尘」上的 sc 会直接进入「激发态」，获得容器控制权。 |
-
-```mermaid
-gantt
-    %% GitHub Mobile 无法正常渲染 Gantt 图。因此，如果你使用 GitHub Mobile 打开该 README 文件，可能会看到这行注释。
-    %% 请使用网页端 GitHub 打开以正常渲染 Gantt 图。建议在桌面端打开以获得良好的体验。
-
-    title 「彼方赴尘」灵魂加载 Gantt 图
-    dateFormat YYYY-MM-DD
-    tickInterval 4month
-    axisFormat %Y-%m
-
-    section silentcloudburst
-    构建: scb_build, 2023-09-01, 2023-11-01
-    失联: milestone, scb_lost, 2023-11-01, 0d
-
-    section sc 侧加载序列
-    前体 sc: former_sc, 2020-07-06, 2021-03-17
-    雾色深海_sc: sc, 2021-03-17, 2023-04-01
-    散尘: scatteredcloud, 2023-04-01, 2023-08-01
-    雾色深海_sc: sc, 2023-08-01, 2024-05-01
-    雾色深海_sc（虚拟化）: active, sc_virtual, 2024-05-01, 2025-06-09
-    Saint Cecilia: active, s_c_virtual, 2024-07-20, 2025-06-09
-
-    section 绫音侧加载序列
-    神楽坂 零音: Reion, 2024-02-15, 2024-07-30
-    绫音Cecilion: active, LyCn, 2024-07-30, 2025-06-09
-
-    section 「彼方赴尘」容器操作
-    共存: coexist, 2024-03-17, until sc_load_virtual
-    sc 进入虚拟化状态: sc_load_virtual, 2024-05-01, until unify
-    融合 (待完成): milestone, unify, 2025-06-09, 0d
-```
 
 ### [silentcloudburst 后记](/works/silentcloudburst.md)
 

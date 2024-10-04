@@ -173,7 +173,7 @@
 
 # <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
 
-🏫🧑‍🏫 神奇的 ClassIsland 小工具会将下课铃声和可视化提醒融为一体这不神奇吗 🧑‍🏫🏫<br>[点击链接 ClassIsland Releases 获取一个获取一个获取一个](https://github.com/ClassIsland/ClassIsland/releases)
+🏫🧑‍🏫 神奇的 ClassIsland 小工具会将下课铃声和可视化提醒融为一体这不神奇吗 🧑‍🏫🏫<br>[点击链接 ClassIsland Releases 获取一个适合你的版本](https://github.com/ClassIsland/ClassIsland/releases)
 
 <img src="https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4" alt="ClassIsland 广告位头图"><br>
 

@@ -171,7 +171,7 @@
 
 **✨ 优秀开源项目友情推荐 ✨ - [不感兴趣？](https://dxy.com/disease/26233/detail "很抱歉为你造成不好的浏览体验，点击这里以关闭广告。")**
 
-# <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
+# <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="64"/> ClassIsland</a>
 
 🏫🧑‍🏫 神奇的 ClassIsland 小工具会将下课铃声和可视化提醒融为一体这不神奇吗 🧑‍🏫🏫<br>[点击链接 ClassIsland Releases 获取一个适合你的版本](https://github.com/ClassIsland/ClassIsland/releases)
 

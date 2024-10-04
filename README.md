@@ -96,7 +96,7 @@
 
 <div align="center">
 
-![黎泽懿 最近在听](https://netease-recent-profile.vercel.app/?id=3899071498&type=1&show_percent=1&column=2&number=10&title=%E7%BB%AB%E9%9F%B3%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&size=60)
+![黎泽懿 最近在听](https://netease-recent-profile.vercel.app/?id=3899071498&type=1&show_percent=1&column=2&number=10&title=黎泽懿%20最近在听&size=60)
 
 ![黎泽懿的 GitHub 统计数据！](https://github-readme-stats.vercel.app/api?username=lzy98276&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=黎泽懿的%20GitHub%20统计数据！&number_format=long&theme=gradient)
 
